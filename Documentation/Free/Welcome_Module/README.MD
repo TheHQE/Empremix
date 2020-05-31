@@ -1,7 +1,7 @@
 ## Welcomer Module | Documentation
 
 ### Welcome Messages
-> Sends a **welcome event** when a user that has joined the server
+> Sends a **welcome message** when a user joins the server
 ![Empremix [DG]](https://cdn.discordapp.com/attachments/716657082157236254/716665228305236028/exwelcomer_enable.png)
 ![Empremix [DG]](https://cdn.discordapp.com/attachments/716657082157236254/716665226518331483/exwelcomer_disable.png)
 ![Empremix [DG]](https://cdn.discordapp.com/attachments/716657082157236254/716667715246358648/exwelcomer_setchannel.png)
