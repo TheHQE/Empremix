@@ -12,6 +12,10 @@
 ![Empremix [DG]](https://cdn.discordapp.com/attachments/716657082157236254/716671013898813500/exignorechannel_remove.png)
 ![Empremix [DG]](https://cdn.discordapp.com/attachments/716657082157236254/716671003065057350/exignorechannel_list.png)
 
+### **Test**
+> Sends both of the events in a specific channel for testing purposes
+![IMG](https://cdn.discordapp.com/attachments/716657082157236254/716673228625412146/extest.png)
+
 ### confusing.exe still exists? 
 Hop right in to our [**Support Server**](https://discord.gg/HA7UCtr) and get all the help you'll ever need!
 
