@@ -4,3 +4,5 @@
 
 ![Empremix [DG]](https://cdn.discordapp.com/attachments/716657082157236254/716657503311757393/exwelcomer_disable.png)
 
+![IMG](https://media.discordapp.net/attachments/716657082157236254/716664575709413486/exwelcomer_text_info.png)
+
