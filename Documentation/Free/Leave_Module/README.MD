@@ -1,4 +1,4 @@
-## Welcomer Module | Documentation
+## Leaver Module | Documentation
 
 ![Empremix [DG]](https://cdn.discordapp.com/attachments/716657082157236254/716667441442455593/exleaver_enable.png)
 
