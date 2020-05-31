@@ -14,4 +14,4 @@ Simply click the one you need help with.
 [![standard-readme compliant](https://img.shields.io/badge/Information-Module-blue.svg?style=flat-square)](https://github.com/TheHQE/Empremix/tree/master/Documentation/Free/Information_Module/)
 
 
-###### [Click Here To Go To Main Page](https://github.com/TheHQE/Empremix/)
+###### [Click Here To Go Back](https://github.com/TheHQE/Empremix/tree/master/Documentation)
