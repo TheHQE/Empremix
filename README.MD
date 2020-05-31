@@ -1,6 +1,6 @@
 ![Empremix [DG]](https://cdn.discordapp.com/attachments/680360684399493123/716652143750283325/Empremix_DG.png)
 
->What is Empremix?
+## What is Empremix?
 
 Empremix is a multiple purpose put which prioritizes greetings and it holds features that no other bot is capable of!
 
