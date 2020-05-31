@@ -6,7 +6,7 @@
 
 ![Empremix [DG]](https://cdn.discordapp.com/attachments/716657082157236254/716667715246358648/exwelcomer_setchannel.png)
 
-![IMG](https://media.discordapp.net/attachments/716657082157236254/716664575709413486/exwelcomer_text_info.png)
+![IMG](https://cdn.discordapp.com/attachments/716657082157236254/716668833812840508/exwelcomer_text_info.png)
 
 ![IMG](https://cdn.discordapp.com/attachments/716657082157236254/716664585389604989/exwelcomer_text_change.png)
 
