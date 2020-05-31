@@ -13,7 +13,7 @@
 
 ### confusing.exe still exists? 
 
-Hop right in to our [Support Server](https://discord.gg/HA7UCtr) and get all the help you'll ever need!
+Hop right in to our [**Support Server**](https://discord.gg/HA7UCtr) and get all the help you'll ever need!
 
 
 
