@@ -1,8 +1,7 @@
 ## Welcomer Module | Documentation
 
-```
-ex!welcomer enable
-```
+
+#### ex!welcomer enable
 enables the welcome system 
 
 
