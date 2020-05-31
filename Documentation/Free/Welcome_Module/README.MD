@@ -1,6 +1,7 @@
 ## Welcomer Module | Documentation
 
-```ex!welcomer enable
+```
+ex!welcomer enable
 ``` 
 This will enable the __Welcome System__
 
