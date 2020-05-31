@@ -1,7 +1,7 @@
 # Free Version | Documentation
 
-The **FREE** version consists of 5 modules.
-Simply click the once you need help with!
+The **FREE** version consists of 5 modules,
+Simply click the one you need help with.
 
 [![standard-readme compliant](https://img.shields.io/badge/Welcomer-Module-red.svg?style=flat-square)](https://github.com/TheHQE/Empremix/tree/master/Documentation/Free/Welcome_Module/)
 
