@@ -6,7 +6,7 @@
 
 ![Empremix [DG]](https://cdn.discordapp.com/attachments/716657082157236254/716667443275235439/exleaver_setchannel.png)
 
-![IMG](https://cdn.discordapp.com/attachments/716657082157236254/716667447754883183/exleaver_text_info.png)
+![IMG](https://cdn.discordapp.com/attachments/716657082157236254/716668798132027432/exleaver_text_info.png)
 
 ![IMG](https://cdn.discordapp.com/attachments/716657082157236254/716667445062008943/exleaver_text_change.png)
 
