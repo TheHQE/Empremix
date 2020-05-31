@@ -3,7 +3,7 @@
 ```
 ex!welcomer disable
 ``` 
-This will disable the __Welcome System__
+> This will disable the __Welcome System__
 
 ___________________________
 |                         |
