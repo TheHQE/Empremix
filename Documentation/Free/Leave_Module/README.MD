@@ -1,15 +1,12 @@
 ## Leaver Module | Documentation
 
+### Leave Messages
+> Sends a event when a user leaves the server
 ![Empremix [DG]](https://cdn.discordapp.com/attachments/716657082157236254/716667441442455593/exleaver_enable.png)
-
 ![Empremix [DG]](https://cdn.discordapp.com/attachments/716657082157236254/716667439773122570/exleaver_disable.png)
-
 ![Empremix [DG]](https://cdn.discordapp.com/attachments/716657082157236254/716667443275235439/exleaver_setchannel.png)
-
 ![IMG](https://cdn.discordapp.com/attachments/716657082157236254/716668798132027432/exleaver_text_info.png)
-
 ![IMG](https://cdn.discordapp.com/attachments/716657082157236254/716667445062008943/exleaver_text_change.png)
-
 ![IMG](https://cdn.discordapp.com/attachments/716657082157236254/716667446701850644/exleaver_text_disable.png)
 
 
