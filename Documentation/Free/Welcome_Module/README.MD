@@ -13,7 +13,8 @@
 
 ### confusing.exe still exists? 
 
-Hop right in to our support server and get all the help you'll ever need!
+Hop right in to our [Support Server](https://discord.gg/HA7UCtr) and get all the help you'll ever need!
+
 
 
 ###### [Click Here To Go Back](https://github.com/TheHQE/Empremix/tree/master/Documentation/Free)
