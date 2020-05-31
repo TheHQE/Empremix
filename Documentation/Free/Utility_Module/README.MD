@@ -7,7 +7,7 @@
 
 ![Empremix [DG]](https://cdn.discordapp.com/attachments/716657082157236254/716669998105362492/exautorole_disable.png)
 
-### Ignore Channel
+### **Ignore Channel**
 
 ### confusing.exe still exists? 
 Hop right in to our [**Support Server**](https://discord.gg/HA7UCtr) and get all the help you'll ever need!
