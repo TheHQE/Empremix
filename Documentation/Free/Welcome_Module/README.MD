@@ -10,5 +10,9 @@
 
 ![IMG](https://cdn.discordapp.com/attachments/716657082157236254/716664614078906368/exwelcomer_text_disable.png)
 
-###### [Click Here To Go Back](https://github.com/TheHQE/Empremix/tree/master/Documentation/Free)
+### Confusing.exe still exists? 
 
+Hop right in to our support server and get all the help you'll ever need!
+
+
+###### [Click Here To Go Back](https://github.com/TheHQE/Empremix/tree/master/Documentation/Free)
