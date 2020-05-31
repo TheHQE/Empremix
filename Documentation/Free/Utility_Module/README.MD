@@ -1,6 +1,6 @@
 ## Utility Module | Documentation
 
-### Autorole
+### **Autorole**
 ![Empremix [DG]](https://cdn.discordapp.com/attachments/716657082157236254/716670002043945032/exautorole_humans.png)
 
 ![Empremix [DG]](https://cdn.discordapp.com/attachments/716657082157236254/716669997023494195/exautorole_bots.png)
