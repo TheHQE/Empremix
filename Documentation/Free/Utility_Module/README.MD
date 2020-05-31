@@ -1,6 +1,7 @@
 ## Utility Module | Documentation
 
 ### **Autorole**
+> Gives a role when a human/bot joins the server
 ![Empremix [DG]](https://cdn.discordapp.com/attachments/716657082157236254/716670002043945032/exautorole_humans.png)
 
 ![Empremix [DG]](https://cdn.discordapp.com/attachments/716657082157236254/716669997023494195/exautorole_bots.png)
@@ -8,6 +9,12 @@
 ![Empremix [DG]](https://cdn.discordapp.com/attachments/716657082157236254/716669998105362492/exautorole_disable.png)
 
 ### **Ignore Channel**
+> No commands function in an **ignored channel**
+![Empremix [DG]](https://cdn.discordapp.com/attachments/716657082157236254/716671002267877416/exignorechannel_add.png)
+
+![Empremix [DG]](https://cdn.discordapp.com/attachments/716657082157236254/716671013898813500/exignorechannel_remove.png)
+
+![Empremix [DG]](https://cdn.discordapp.com/attachments/716657082157236254/716671003065057350/exignorechannel_list.png)
 
 ### confusing.exe still exists? 
 Hop right in to our [**Support Server**](https://discord.gg/HA7UCtr) and get all the help you'll ever need!
