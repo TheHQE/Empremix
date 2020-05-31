@@ -10,5 +10,5 @@
 
 ![IMG](https://cdn.discordapp.com/attachments/716657082157236254/716664614078906368/exwelcomer_text_disable.png)
 
-###### [Click Here To Go Back](https://github.com/TheHQE/Empremix/Documentation/Free/)
+###### [Click Here To Go Back](https://github.com/TheHQE/Empremix/tree/master/Documentation/Free)
 
