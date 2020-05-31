@@ -1,8 +1,9 @@
 ## Welcomer Module | Documentation
 
 
-**ex!welcomer enable**
-`enables the welcome system `
+### ex!welcomer enable
+> This will enable the "Welcome System"
+
 
 
 ```ex!welcomer disable``` 
