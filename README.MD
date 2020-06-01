@@ -11,7 +11,7 @@ Simply [**Click Here**](https://discordapp.com/oauth2/authorize?client_id=588398
 ## How To Use
 
 We have detailed every command out for our lovely users!
-just check out [**Documentation**](https://github.com/TheHQE/Empremix/blob/master/Documentation)
+just check out [**Documentation**](https://github.com/TheHQE/Empremix/blob/master/Documentation/README.MD)
 
 ## Support Server
 Consider joining our [**Support Server**](https://discord.gg/HA7UCtr)
