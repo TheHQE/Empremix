@@ -16,4 +16,4 @@ just check out [**Documentation**](https://github.com/TheHQE/Empremix/blob/maste
 ## Support Server
 Consider joining our [**Support Server**](https://discord.gg/HA7UCtr)
 
-##### Version 1 | Build 0.5
+##### Version 1 | Build 1.8
