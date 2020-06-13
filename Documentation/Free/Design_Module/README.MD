@@ -8,7 +8,7 @@
 > change the background in **welcome/leave events**
 ![Empremix [DG]](https://cdn.discordapp.com/attachments/716657082157236254/716678132773421096/exbackground.png)
 
-### confusing.exe still exists? 
+### confusion.exe still exists? 
 Hop right in to our [**Support Server**](https://discord.gg/HA7UCtr) and get all the help you'll ever need!
 
 
