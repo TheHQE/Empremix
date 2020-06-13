@@ -21,7 +21,7 @@
 ![IMG](https://cdn.discordapp.com/attachments/716657082157236254/721377639620804608/exmodrole_role.png)
 ![IMG](https://cdn.discordapp.com/attachments/716657082157236254/721377640958918696/exmodrole_disable.png)
 
-### confusing.exe still exists? 
+### confusion.exe still exists? 
 Hop right in to our [**Support Server**](https://discord.gg/HA7UCtr) and get all the help you'll ever need!
 
 
