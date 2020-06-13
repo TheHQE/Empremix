@@ -10,7 +10,7 @@
 ![IMG](https://cdn.discordapp.com/attachments/716657082157236254/716667446701850644/exleaver_text_disable.png)
 
 
-### confusing.exe still exists? 
+### confusion.exe still exists? 
 Hop right in to our [**Support Server**](https://discord.gg/HA7UCtr) and get all the help you'll ever need!
 
 
