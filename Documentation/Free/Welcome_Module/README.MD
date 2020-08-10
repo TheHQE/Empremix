@@ -11,6 +11,8 @@
 ![IMG](https://media.discordapp.net/attachments/716657082157236254/731146798772781126/exwelcomer_dmtext_eanble.png)
 ![IMG](https://media.discordapp.net/attachments/716657082157236254/731146795786436688/exwelcomer_dmtext_disable.png)
 ![IMG](https://media.discordapp.net/attachments/716657082157236254/731146804586086511/exwelcomer_dmtext_set.png)
+![IMG](https://cdn.discordapp.com/attachments/715238790830227516/742396834860761178/exwelcomer_images_enable.png)
+![IMG](https://cdn.discordapp.com/attachments/715238790830227516/742396833552269382/exwelcomer_images_disable.png)
 
 ### confusion.exe still exists? 
 Hop right in to our [**Support Server**](https://discord.gg/HA7UCtr) and get all the help you'll ever need!
